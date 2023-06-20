@@ -10,6 +10,7 @@ Create a file called `hosts.txt` in the following format:
 host1.example.com
 host2.example.com
 host3.example.com
+host4.example.com
 ...
 ```
 
